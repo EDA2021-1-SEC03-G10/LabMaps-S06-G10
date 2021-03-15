@@ -161,6 +161,7 @@ def addBook(catalog, book):
     libro fue publicaco en ese año.
     """
     lt.addLast(catalog['books'], book)
+
     mp.put(catalog['bookIds'], book['goodreads_book_id'], book)
     authors = book['authors'].split(",")  # Se obtienen los autores
     for author in authors:
