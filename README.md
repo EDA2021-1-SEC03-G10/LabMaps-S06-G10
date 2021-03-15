@@ -1,3 +1,6 @@
+Maicol Yojan Antonio Rincon código: 202027329    correo: m.antonio@uniandes.edu.co
+Lindsay Vanessa Pinto Morato Código: 202023139   correo: l.pintom@uniandes.edu.co
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
